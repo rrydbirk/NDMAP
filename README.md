@@ -31,4 +31,4 @@ To do:
 
 - [MOFA2 downstream analyses](https://rrydbirk.github.io/NDMAP/Brain_regions_MOFA2_downstream.html)
 
-- [MOFA2 GSEA analyses}(https://rrydbirk.github.io/NDMAP/Brain_regions_GSEA.html)
+- [MOFA2 GSEA analyses](https://rrydbirk.github.io/NDMAP/Brain_regions_MOFA2_GSEA.html)
