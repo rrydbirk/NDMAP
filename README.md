@@ -25,6 +25,8 @@ To do:
 
 - [Downstream analyses WITHOUT imputation](https://rrydbirk.github.io/NDMAP/Brain_regions_downstream_no_imputation.html)
 
+- [Protein expression concurrency across areas](https://rrydbirk.github.io/NDMAP/Concurrency.html)
+
 ## Factor analyses
 
 - [MOFA2 model creation](https://rrydbirk.github.io/NDMAP/Brain_regions_MOFA2_models.html)
