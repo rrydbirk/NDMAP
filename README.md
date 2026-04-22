@@ -36,3 +36,8 @@ To do:
 ## WGCNA
 
 - [WGCNA](https://rrydbirk.github.io/NDMAP/WGCNA.html) - please note, this is experimental. Read the info in the beginning of the report.
+
+## Concurrecy
+
+- [Concurrent expression across regions](https://rrydbirk.github.io/NDMAP/Concurrency.html)
+
