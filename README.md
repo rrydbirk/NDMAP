@@ -9,8 +9,6 @@ For the regular analyses, please note for the striatum I set min log2 fold chang
 
 To do:
 
-- Perform across area analyses of protein expression (are any proteins concurrently high/low across areas?)
-
 - Between area protein crosstalk (will high levels of protein A in area X lead to low levels of B in area Y?)
 
 # Analysis reports
@@ -34,3 +32,7 @@ To do:
 - [MOFA2 downstream analyses](https://rrydbirk.github.io/NDMAP/Brain_regions_MOFA2_downstream.html)
 
 - [MOFA2 GSEA analyses](https://rrydbirk.github.io/NDMAP/Brain_regions_MOFA2_GSEA.html)
+
+## WGCNA
+
+- [WGCNA](https://rrydbirk.github.io/NDMAP/WGCNA.html) - please note, this is experimental. Read the info in the beginning of the report.
